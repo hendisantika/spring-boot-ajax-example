@@ -12,3 +12,11 @@ Tools used in this article :
 * Embedded Tomcat 8.5.6
 * Google Chrome Browser (Network Inspect)
 * IntelliJ IDEA Ultimate 2018.2
+
+Home Page
+
+![Home Page](img/home.png "Home Page")
+
+Search Page
+
+![Search Page](img/search.png "Search Page")
